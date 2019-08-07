@@ -1,9 +1,9 @@
-h2.intro {
+.intro {
   color: green;
   font-style: italic;
   font-size: 40px;
 }
-p.intro {
+/* .intro {
   color: blue;
   font-size: 50px;
   font-style: oblique;
@@ -14,4 +14,4 @@ img.intro {
   object-position: 100% 150%;
   width: 300px;
   height:400px;
-}
+} */
